@@ -149,6 +149,9 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <None Include="Текстовые файлы, руководства, скрипты и тп\ER-диаграмма.pdf" />
+    <None Include="Текстовые файлы, руководства, скрипты и тп\Дополнение к техническому заданию.docx" />
+    <None Include="Текстовые файлы, руководства, скрипты и тп\Руководство системного программиста.docx" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -164,6 +167,7 @@
       <DependentUpon>Model1.edmx</DependentUpon>
       <LastGenOutput>Model1.cs</LastGenOutput>
     </Content>
+    <Content Include="Текстовые файлы, руководства, скрипты и тп\Alyoshin.sql" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
